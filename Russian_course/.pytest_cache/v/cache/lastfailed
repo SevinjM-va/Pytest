@@ -1,0 +1,10 @@
+{
+  "tests/test_main.py::test_sum": true,
+  "tests/test_main.py::test_divide": true,
+  "tests/test_main.py::TestCalculator::test_divide[1-2-0.5]": true,
+  "tests/test_main.py::TestCalculator::test_divide[8-2-4]": true,
+  "tests/test_main.py::TestCalculator::test_divide[8-4-2]": true,
+  "tests/test_main.py::TestCalculator::test_divide[6-2-3]": true,
+  "tests/test_main.py::TestCalculator::test_add[2-5-7]": true,
+  "tests/test_main.py::TestCalculator::test_add[8-3-11]": true
+}

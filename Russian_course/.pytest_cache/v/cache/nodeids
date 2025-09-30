@@ -1,0 +1,18 @@
+[
+  "tests/test_main.py::TestCalculator::test_add[2-5-7]",
+  "tests/test_main.py::TestCalculator::test_add[8-3-11]",
+  "tests/test_main.py::TestCalculator::test_divide[1-2-0.5]",
+  "tests/test_main.py::TestCalculator::test_divide[6-2-3]",
+  "tests/test_main.py::TestCalculator::test_divide[8-4-2]",
+  "tests/test_main.py::TestCalculator::test_divide[8-5-2]",
+  "tests/test_main.py::TestCalculator::test_divide_type_error[6-b]",
+  "tests/test_main.py::TestCalculator::test_divide_type_error[a-2]",
+  "tests/test_main.py::TestCalculator::test_divide_zero_error[10-0]",
+  "tests/test_main.py::test2",
+  "tests/test_main.py::test_add[2-5-7]",
+  "tests/test_main.py::test_add[8-3-11]",
+  "tests/test_main.py::test_divide[1-2-0.5]",
+  "tests/test_main.py::test_divide[6-2-3]",
+  "tests/test_main.py::test_main",
+  "tests/test_main.py::test_sum"
+]
